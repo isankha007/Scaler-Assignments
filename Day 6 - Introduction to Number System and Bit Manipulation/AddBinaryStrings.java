@@ -15,7 +15,7 @@ a = "100"
 b = "11"
 Return a + b = "111".
 */
-
+  
 public class Solution {
     public String addBinary(String A, String B) {
         int sum=0;
